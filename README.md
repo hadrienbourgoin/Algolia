@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a web app to search movies
 
-Things you may want to cover:
+Ruby on Rails (7.0)
 
-* Ruby version
+Use: simple_form, Algolia
 
-* System dependencies
+JSON as data source
 
-* Configuration
+Seed the DB from JSON
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
